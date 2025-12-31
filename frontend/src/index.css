@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply bg-white text-gray-900 antialiased;
+  }
+
+  a {
+    @apply text-sky-600 hover:text-sky-700 transition-colors;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-sky-600 text-white px-4 py-2 rounded-lg hover:bg-sky-700 transition-colors font-medium disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-900 px-4 py-2 rounded-lg hover:bg-gray-300 transition-colors font-medium disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-transparent;
+  }
+
+  .message-user {
+    @apply bg-sky-600 text-white rounded-2xl rounded-br-none px-4 py-2 max-w-xl;
+  }
+
+  .message-assistant {
+    @apply bg-gray-100 text-gray-900 rounded-2xl rounded-bl-none px-4 py-2 max-w-xl;
+  }
+}

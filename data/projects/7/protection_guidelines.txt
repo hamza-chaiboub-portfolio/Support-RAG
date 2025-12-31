@@ -1,0 +1,217 @@
+•	Primary Sources Used (main URLs):
+•	Banking customer protection (FR): https://www.bkam.ma/Supervision-bancaire/Protection-de-la-clientele-des-etablissements-de-credit
+•	Banking customer protection (EN): https://www.bkam.ma/en/Banking-supervision/Protection-of-credit-institutions-customers
+•	Public services – SCCB (Centralisation des comptes bancaires): https://www.bkam.ma/Trouvez-l-information-concernant/Services-rendus-au-public/Service-d-interet-commun/Centralisation-des-comptes-bancaires
+•	Directive on minimum banking services free of charge (services bancaires minimums): e.g. “Directive n°1 G 10 relative aux services bancaires minimums devant être offerts par les banques à leur clientèle, à titre gratuit” (PDF)
+•	Guide “Comparateur des tarifs bancaires et des dates de valeur”: https://www.bkam.ma/content/download/806272/8879807/version/2/file/Guide+comparateur+FR.pdf
+•	Legislative and regulatory compendium for credit institutions and similar: “Recueil des textes législatifs et réglementaires de la clientèle des établissements de crédit et organismes assimilés” (PDF)
+•	Annual report and supervision report examples: e.g. Rapport annuel, Rapport annuel sur la supervision bancaire (various years)
+•	Table of Contents:
+1.	Account Services (Scope & Centralisation of Accounts)
+2.	Payment Methods & Cards (Regulatory Aspects Only)
+3.	Loan & Credit Products (Customer Rights & Disclosure Duties)
+4.	Savings & Investment Products (Regulatory Framework)
+5.	Digital Banking Services (Principles & Protections)
+6.	Fees, Commissions, & Tariffs (Minimum Free Services & Tariff Comparator)
+7.	Security, Fraud, & Problem Resolution (Complaints, Mediation, Guarantees)
+8.	Contact Information & Branch Network
+9.	General Policies & Regulations (Legal Framework & Consumer Rights)
+________________________________________
+1. Account Services
+1.1 Role of Bank Al Maghrib vs commercial banks
+•	Bank Al Maghrib (BAM) is the central bank of Morocco; it does not open or manage personal current accounts, cards, or loans for individuals.
+(Source: Website navigation “À propos / Banking supervision” & protection pages)
+•	Individuals open and manage their accounts with commercial banks, but BAM regulates these institutions and oversees respect of consumer protection rules, transparency, and fair treatment of banking customers.
+(Source: “Protection de la clientèle des établissements de crédit”)
+1.2 Legal basis for account-related customer protection
+•	BAM’s responsibilities toward banking customers derive primarily from Law 103 12 on credit institutions and similar entities and Law 31 08 on consumer protection, which assign to BAM the mission of setting standards and supervising their implementation by banks.
+(Source: “Protection de la clientèle des établissements de crédit” – cadre légal)
+•	These laws empower BAM to issue regulatory standards on transparency of banking conditions, complaint handling, and mediation, and to sanction institutions that do not comply.
+(Source: protection page & legislative compendium)
+1.3 Centralised register of bank accounts (SCCB / RCCB)
+•	BAM operates a Service de centralisation des comptes bancaires (SCCB / RCCB), which centralises identification data on any person holding bank accounts in Morocco and records openings, closures, and updates.
+(Source: “Centralisation des comptes bancaires”)
+•	The service allows a person, or the rightful heirs of a deceased person, to request information on existing accounts in their name or in the name of the deceased, subject to providing required documents.
+(Source: “Centralisation des comptes bancaires” – questions fréquentes)
+1.4 How to request information about accounts (self)
+•	To know which bank accounts exist in one’s own name in Morocco, a person may:
+•	Log in to the dedicated user portal for common-interest services operated by BAM (portail des usagers des services d’intérêt commun), when available;
+•	Visit a BAM agency in person with valid ID and supporting documents;
+•	Send a written request with required documents and the completed RCCB request form to the specified BAM postal address in Rabat.
+(Source: “Centralisation des comptes bancaires” – modalités de saisine)
+•	The postal address given for SCCB-related requests is typically a BAM directorate in Hay Riad, Rabat (Direction Fiduciaire et Présence de Place – Service Pilotage des Services d’Intérêt Commun), and a national phone number (e.g. 080 200 11 11) is provided for assistance.
+(Source: “Centralisation des comptes bancaires” – qui contacter)
+1.5 How to request information about accounts of a deceased person
+•	For heirs or rights-holders, BAM may be seized to perform account searches for a deceased person, based on a dossier including proof of death and documents proving the requester’s capacity as an heir or legal representative.
+(Source: “Centralisation des comptes bancaires” – point particulier sur les personnes décédées)
+•	Requests follow the same channels (portal when available, in person at a BAM branch, or by mail to the dedicated address), with specific mention that the request concerns a deceased person and inclusion of supporting legal documents.
+(Source: “Centralisation des comptes bancaires” – modalités particulières)
+________________________________________
+2. Payment Methods & Cards (Regulatory Aspects Only)
+2.1 Scope of BAM regarding payment means
+•	BAM does not issue payment cards or personal chequebooks to the public; these are provided by commercial banks and payment institutions.
+(Source: site structure & supervision pages)
+•	However, BAM sets and enforces rules on transparency, information, and fair treatment regarding fees, conditions, and dispute resolution for payment methods such as cards, cheques, and transfers.
+(Source: customer protection page & directives)
+2.2 Minimum free basic banking services (relevant to payments)
+•	A BAM directive on minimum banking services that must be offered free of charge lists, among others, free account opening, cheque-book issuance, savings book issuance, salary domiciliation, and certain basic operations (e.g. cash deposits at the bank holding the account).
+(Source: Directive n°1 G 10 relative aux services bancaires minimums)
+•	The directive specifies that free-of-charge status cannot be made conditional on the number of operations or a minimum balance; banks may not circumvent these free services through hidden conditions.
+(Source: Directive – articles 1–2)
+2.3 Transparency and information obligations for payment operations
+•	Banks must clearly inform clients about conditions, fees, and value dates applicable to payments (card payments, ATM withdrawals, cheques, transfers), and this information should be accessible before the customer commits to the operation.
+(Source: customer protection page & comparator guide)
+•	BAM requires that fees and value dates for common payment operations be presented in a transparent and comparable manner, including via the national tariff comparator platform.
+(Source: Guide comparateur des tarifs bancaires)
+________________________________________
+3. Loan & Credit Products
+3.1 BAM’s role on credit products
+•	Individuals contract loans (housing, consumer, professional) directly with banks; BAM does not grant these loans but regulates how they are marketed and managed from a customer-protection perspective.
+(Source: customer protection & monetary policy reports)
+•	Law 31 08 on consumer protection and BAM directives impose obligations on banks regarding pre-contractual information, disclosure of total cost of credit, and fair contract terms.
+(Source: customer protection page, legislative compendium)
+3.2 Information and transparency on loans
+•	Banks must clearly inform clients about interest rates, the Taux Effectif Global (TEG), fees, insurance, and other costs, as well as repayment schedules and potential penalties for late payment.
+(Source: protection page & regulatory texts)
+•	BAM monitors compliance with these disclosure obligations and may issue recommendations or sanctions where institutions fail to respect clients’ rights.
+(Source: customer protection page & supervision report)
+3.3 Handling difficulties with loan repayment
+•	Customers facing repayment difficulties should first contact their bank to seek solutions (rescheduling, restructuring, etc.), but may escalate to BAM via the complaint process if they consider their rights breached or their complaint poorly handled by the bank.
+(Source: protection page – traitement des réclamations)
+•	BAM examines such complaints within its remit, focusing on respect of regulatory rules and consumer protection rather than renegotiating commercial terms directly.
+(Source: protection page & supervision report sections on complaints)
+________________________________________
+4. Savings & Investment Products
+4.1 Regulatory framework for savings
+•	Savings products (e.g. savings accounts, term deposits, investment products) are offered by banks and financial institutions under BAM’s supervision.
+(Source: supervision & monetary policy reports)
+•	BAM’s consumer-protection standards require clear information on remuneration, risk, liquidity conditions, and applicable fees, so that clients can make informed choices.
+(Source: protection page & regulatory compendium)
+4.2 Free services and savings accounts
+•	The directive on minimum free banking services includes free issuance of a savings book (livret d’épargne) among the services that must be offered without charge under specified conditions.
+(Source: Directive n°1 G 10 – liste des services gratuits)
+•	Banks cannot impose additional conditions (e.g. minimum number of operations) to grant this free status, beyond what is allowed by the directive.
+(Source: Directive – article 2)
+________________________________________
+5. Digital Banking Services
+5.1 Scope: online and mobile banking
+•	Online and mobile banking services are provided by commercial banks, but BAM requires that customer information, security measures, and complaint channels for these digital services meet the same standards as for traditional channels.
+(Source: protection page & studies on payment behavior)
+•	BAM follows the development of digital payments and remote channels in its publications, including analyses of usage, user concerns (e.g. fees, security), and financial inclusion implications.
+(Source: Greenback report, annual reports)
+5.2 Responsibilities in case of problems with digital services
+•	In the event of malfunctions, disputed operations, or suspected fraud on digital channels, customers must first contact their bank using the mechanisms described in their contract and the bank’s customer service documents.
+(Source: protection page – obligations des établissements de crédit)
+•	If customers consider that their complaints have not been handled correctly or that banks do not respect the rules on transparency, security, or treatment of complaints, they can escalate to BAM according to the complaints procedure described in the customer-protection portal.
+(Source: protection pages FR/EN – complaints handling)
+________________________________________
+6. Fees, Commissions, & Tariffs
+6.1 Minimum banking services free of charge
+•	BAM’s directive on minimum banking services defines a list of services that banks must provide free of charge to customers (for eligible accounts), including at least: account opening, cheque-book issuance, savings book issuance, salary domiciliation, attestation of bank account details (RIB), cash deposits at the account-holding branch, and certain withdrawals at the branch counter.
+(Source: Directive relative aux services bancaires minimums)
+•	The directive prohibits banks from conditioning these free services on factors such as the number of operations or a minimum account balance.
+(Source: Directive – article 2)
+6.1.1 Example representation (for chatbot answers)
+Service (summary)	Pricing rule (directive)
+Account opening	Must be offered free of charge as part of minimum services.
+Cheque-book issuance	Must be offered free of charge under the directive’s conditions.
+Savings book issuance	Must be free of charge as a minimum service.
+Salary domiciliation	Must be provided free of charge.
+Issuance of bank account details certificate (RIB)	Must be free of charge.
+Cash deposits at account-holding branch	Must be free of charge (excluding fiscal stamp if applicable).
+(Source: Directive n°1 G 10 relative aux services bancaires minimums)
+6.2 Tariff comparator platform
+•	Under BAM’s impetus, the Moroccan banks’ association (GPBM) has developed an online comparative platform of banking tariffs and value dates for the most common products and services for individual customers.
+(Source: Guide “Comparateur des tarifs bancaires et des dates de valeur”)
+•	The platform is accessible to the public in Arabic and French at the URL indicated in the guide (e.g. https://comparatif-tarifs-bancaires.ma/), allowing users to compare tariffs and value dates applied by banks for a predefined list of frequently used services.
+(Source: comparator guide – platform description)
+6.3 Content of the tariff comparator
+•	The comparator lets users:
+•	Access information on fees and value dates for a selection of products and services offered to retail banking clients;
+•	Compare offers of different banks on common criteria;
+•	Access a glossary explaining each product/service, as well as information on rights and recourse in case of issues.
+(Source: comparator guide – functionalities)
+•	The tool is designed to enhance transparency and enable customers to choose their bank based on clear, comparable information about costs and conditions.
+(Source: comparator guide – objectives)
+________________________________________
+7. Security, Fraud, & Problem Resolution
+7.1 BAM’s mandate on customer protection
+•	BAM places the protection of customers of credit institutions at the heart of its strategic plans, recognizing it as a key component of financial stability and inclusion.
+(Source: “Protection de la clientèle des établissements de crédit”, supervision report)
+•	Its remit includes issuing regulatory norms (transparency, complaint handling, mediation), monitoring implementation, processing customer complaints, and, where appropriate, issuing recommendations or sanctions.
+(Source: protection page – missions de BAM)
+7.2 Transparency and information requirements
+•	Banks must provide clear, understandable, and complete information on products, services, fees, risks, and rights, in particular at the time of subscription and during the relationship.
+(Source: protection page & comparator guide)
+•	BAM checks that this transparency is effectively implemented and may act if institutions provide misleading or incomplete information.
+(Source: protection page & supervision report sections on controls)
+7.3 Complaints handling by banks
+•	Banks are required to establish an adequate organisation for complaints handling, including a central unit, clearly defined processes, and an information system that allows proper tracking and resolution of complaints.
+(Source: “Protection de la clientèle…” – traitement des réclamations)
+•	They must acknowledge receipt of complaints, respect defined processing timelines, and provide clear responses; BAM’s directives detail these obligations and BAM monitors their application.
+(Source: protection page & regulatory texts)
+7.4 Complaints to Bank Al Maghrib
+•	Customers who believe their rights have not been respected, or whose complaints have not been satisfactorily resolved by their bank, can submit complaints to BAM within the scope of its powers.
+(Source: protection pages – rôle de BAM dans le traitement des réclamations)
+•	BAM analyses these complaints mainly in terms of compliance with laws and regulations, may intervene with the institution concerned, and can issue recommendations or initiate sanctions provided for by the regulatory framework.
+(Source: protection page & supervision report)
+7.5 Mediation (Centre Marocain de Médiation Bancaire – CMMB)
+•	BAM’s regulatory norms include provisions on banking mediation, implemented by the Centre Marocain de Médiation Bancaire (CMMB), which offers an out-of-court mechanism to resolve disputes between banks and their clients.
+(Source: “Protection de la clientèle…” – médiation bancaire)
+•	Customers may be directed to the CMMB when conditions are met (type of dispute, amounts, prior steps with the bank), and BAM encourages this channel as part of an overall framework for fair and efficient resolution of conflicts.
+(Source: protection page & public communications on mediation guides)
+7.6 Deposit guarantee mechanism
+•	The customer-protection framework includes a deposit guarantee fund (fonds collectif de garantie des dépôts), which protects depositors in case of bank failure up to a certain limit defined by law and regulation.
+(Source: protection page & public articles summarising BAM communications)
+•	BAM oversees this mechanism as part of its mandate to safeguard financial stability and protect depositors, and provides information on principles and eligibility of deposits.
+(Source: protection page & financial stability reports)
+7.7 Fraud and security incidents
+•	In cases of suspected fraud (e.g. fraudulent card transactions, unauthorised operations), customers must contact their bank immediately using the emergency channels specified by the bank, such as blocking hotlines.
+(Source: protection page & studies on payment usage and concerns)
+•	If disputes persist or if customers believe that banks are not respecting regulations on security, liability, and information, they may lodge a complaint with BAM following the formal complaints procedure.
+(Source: customer protection pages – complaints & security requirements)
+________________________________________
+8. Contact Information & Branch Network
+8.1 BAM contact channels for public services
+•	For public-interest services such as the centralisation of bank accounts, BAM provides multiple contact channels:
+•	Portal for users of common-interest services (when available);
+•	BAM agencies across the country;
+•	A central postal address in Rabat;
+•	A dedicated phone number (e.g. national call number 080 200 11 11 for assistance).
+(Source: “Centralisation des comptes bancaires” – Qui contacter ?)
+•	These channels are intended for questions or support requests related to BAM’s public services, such as account centralisation or other common-interest services.
+(Source: same SCCB page)
+8.2 Branch / agency network
+•	BAM maintains a network of branches (succursales) throughout Morocco; these branches may serve as points of reception for certain public requests, such as account centralisation or submission of files that must be transmitted to central services.
+(Source: SCCB page & general site navigation for “Nos agences”)
+•	The website typically includes a section or page listing BAM branches with addresses and sometimes contact details, accessible via general contact or “Services rendus au public / Trouvez l’agence la plus proche de mon domicile” links.
+(Source: SCCB page – “Trouver l’agence la plus proche de mon domicile”)
+8.3 Complaints and customer protection contact
+•	For complaints concerning banks’ respect of customer-protection rules, BAM details on its protection portal how to submit requests (postal address, possibly email or online forms, and procedural guidance).
+(Source: “Protection de la clientèle des établissements de crédit / Protection of credit institutions customers”)
+•	The protection pages may also provide contact points or links specifically dedicated to complaints, separated from general public-information contacts.
+(Source: customer protection pages)
+________________________________________
+9. General Policies & Regulations
+9.1 Strategic positioning of customer protection
+•	Customer protection is a central element of BAM’s strategy and of the national financial inclusion strategy; it aims to promote balanced relationships between banks and their customers and strengthen confidence in the financial system.
+(Source: “Protection de la clientèle…” & “Strategy” page)
+•	BAM integrates consumer protection objectives into its strategic plans, including transparency, financial education, and effective complaint and mediation mechanisms.
+(Source: protection page & supervision report)
+9.2 Key legal and regulatory references
+•	Main legal references include:
+•	Law 103 12 on credit institutions and similar bodies;
+•	Law 31 08 on consumer protection.
+(Source: protection page – cadre légal, regulatory compendium)
+•	BAM also publishes a compendium of legislative and regulatory texts for the protection of customers of credit institutions and similar bodies, which gathers laws, implementing decrees, and BAM circulars and directives, including those on transparency, complaints, mediation, and minimum services.
+(Source: “Recueil des textes législatifs et réglementaires de la clientèle des établissements de crédit et organismes assimilés”)
+9.3 Financial education and public information
+•	BAM contributes to financial education and awareness-raising for banking customers, notably through guides, brochures, and collaboration with the Moroccan Foundation for Financial Education (FMEF), with content on rights, obligations, and good practices in using banking services.
+(Source: protection page & public communications about guides)
+•	These materials may be grouped in “Infos utiles” or education series and are made available to the public via BAM’s site and partner channels, in Arabic and French.
+(Source: news on guides & comparator guide highlighting educational role)
+9.4 Privacy and personal data protection
+•	BAM and credit institutions are subject to Moroccan rules on the protection of personal data, under the authority of the CNDP (Commission Nationale de contrôle de la protection des Données à caractère Personnel), and must ensure confidentiality and secure processing of customers’ personal and banking data.
+(Source: customer protection pages & references to data protection framework)
+•	Customers concerned about the protection of their personal data in banking relationships can use banks’ complaint channels and, where relevant, seek recourse through BAM and/or the CNDP according to applicable procedures.
+(Source: protection pages & regulatory roles)
